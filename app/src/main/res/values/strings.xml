@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SIGAA Mobile</string>
+    <string name="loginsigaa">LoginSigaa</string>
+    <string name="login_title">SIGAA UFC Mobile</string>
+    <string name="username">Matrícula</string>
+    <string name="password">Senha</string>
+    <string name="enterbutton">ACESSAR</string>
+    <string name="forgot">Esqueci minha senha.</string>
+    <string name="title_activity_calendario">calendario</string>
+    <string name="toolbarperfil">Perfil</string>
+</resources>
